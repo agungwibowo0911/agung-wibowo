@@ -1,0 +1,24 @@
+F:\Project\Fajar Laut\Fajar Laut 2019\AddOnSO_Close\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.exe.config
+F:\Project\Fajar Laut\Fajar Laut 2019\AddOnSO_Close\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.exe
+F:\Project\Fajar Laut\Fajar Laut 2019\AddOnSO_Close\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.pdb
+F:\Project\Fajar Laut\Fajar Laut 2019\AddOnSO_Close\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.xml
+F:\Project\Fajar Laut\Fajar Laut 2019\AddOnSO_Close\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.AuthoCloseSO.resources
+F:\Project\Fajar Laut\Fajar Laut 2019\AddOnSO_Close\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.Resources.resources
+F:\Project\Fajar Laut\Fajar Laut 2019\AddOnSO_Close\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.vbproj.GenerateResource.Cache
+F:\Project\Fajar Laut\Fajar Laut 2019\AddOnSO_Close\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.exe
+F:\Project\Fajar Laut\Fajar Laut 2019\AddOnSO_Close\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.xml
+F:\Project\Fajar Laut\Fajar Laut 2019\AddOnSO_Close\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.pdb
+\\192.168.1.12\b1_shf\MIS_Shared\FL\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.exe.config
+\\192.168.1.12\b1_shf\MIS_Shared\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.exe
+\\192.168.1.12\b1_shf\MIS_Shared\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.xml
+\\192.168.1.12\b1_shf\MIS_Shared\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.pdb
+H:\Fajar Laut\FL\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.exe.config
+H:\Fajar Laut\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.exe
+H:\Fajar Laut\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.xml
+H:\Fajar Laut\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.pdb
+H:\Fajar Laut\FL\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.exe
+H:\Fajar Laut\FL\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.pdb
+H:\Fajar Laut\FL\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.xml
+H:\Fajar Laut\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.AuthoCloseSO.resources
+H:\Fajar Laut\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.Resources.resources
+H:\Fajar Laut\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.vbproj.GenerateResource.Cache
