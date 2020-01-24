@@ -8,7 +8,7 @@ Public Class DataAccess
     Private strodbc As String
 
     Private Function SQLGetDataView(ByVal strSPName As String, ByVal parameter As SqlParameter(), ByVal scnMain As SqlConnection, ByVal stnMain As SqlTransaction) As DataView
-
+        'agung wibowo
         Dim scmMain As SqlCommand = New SqlCommand()
         Dim sdaMain As SqlDataAdapter = New SqlDataAdapter()
         Dim dttMain As DataTable = New DataTable("MyDataTable")
