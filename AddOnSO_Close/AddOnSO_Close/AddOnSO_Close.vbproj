@@ -105,6 +105,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <Compile Include="SQLFunction.vb" />
+    <Compile Include="test.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="AuthoClose.resx">
