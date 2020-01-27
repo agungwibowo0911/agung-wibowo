@@ -32,6 +32,7 @@ E:\FL\FL\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.xml
 E:\FL\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.AuthoCloseSO.resources
 E:\FL\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.Resources.resources
 E:\FL\FL\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.vbproj.GenerateResource.Cache
+<<<<<<< HEAD
 E:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.exe.config
 E:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.exe
 E:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.xml
@@ -42,3 +43,15 @@ E:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.xml
 E:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.AuthoCloseSO.resources
 E:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.Resources.resources
 E:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.vbproj.GenerateResource.Cache
+=======
+D:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.exe.config
+D:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.exe
+D:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.xml
+D:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.pdb
+D:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.exe
+D:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.pdb
+D:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\bin\Debug\AddOnSO_Close.xml
+D:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.AuthoCloseSO.resources
+D:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.Resources.resources
+D:\agung-wibowo\AddOnSO_Close\AddOnSO_Close\obj\x86\Debug\AddOnSO_Close.vbproj.GenerateResource.Cache
+>>>>>>> 31abf4f5c8758a6b2c3fee744f36598890ff5855
