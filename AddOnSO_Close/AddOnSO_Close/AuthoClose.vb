@@ -7,7 +7,7 @@ Imports System.Security.Cryptography
 Imports System.IO
 Imports System.Text
 Imports SAPbobsCOM
-
+'------test
 Public Class AuthoCloseSO
     Private objCryptoFunction As New Cryptography.CryptoControl
     Public oCompany As SAPbobsCOM.Company
